@@ -1,0 +1,755 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true will of his late Catholick Majesty Charles 2d, King of Spain with the codicil / translated from the original lately brought hither from Spain and answer'd article by article.</title>
+            <author>Charles II, King of Spain, 1661-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34366</idno>
+            <idno type="STC">Wing C593A</idno>
+            <idno type="STC">ESTC R35464</idno>
+            <idno type="EEBO-CITATION">15313680</idno>
+            <idno type="OCLC">ocm 15313680</idno>
+            <idno type="VID">103418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34366)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1146:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true will of his late Catholick Majesty Charles 2d, King of Spain with the codicil / translated from the original lately brought hither from Spain and answer'd article by article.</title>
+                  <author>Charles II, King of Spain, 1661-1700.</author>
+                  <author>Spain. Sovereign (1665-1700 : Charles II)</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes commentary on the will.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103418:1" rendition="simple:additions"/>
+            <p>THE True WILL Of his late Catholick MAJESTY CHARLES 2d. King of SPAIN, WITH THE CODICIL.</p>
+            <p>Tranſlated from the Original lately brought hither from Spain, And Anſwer'd Article by Article.</p>
+            <p>LONDON, Printed in the Year, 1700.</p>
+            <p>Price 6 d.</p>
+         </div>
+      </front>
+      <body>
+         <div type="will">
+            <pb facs="tcp:103418:2"/>
+            <pb n="1" facs="tcp:103418:2"/>
+            <head>THE TRUE WILL Of his late Catholick MAJESTY, with the <hi>Codicil, Anſwer'd</hi> Article <hi>by</hi> Article.</head>
+            <div n="1" type="article">
+               <head>Article I.</head>
+               <p>IS an Invocation of the Name of God, for obtaining the Grace of dying in the Faith as his Majeſty liv'd.</p>
+               <div type="answer">
+                  <head>Anſwer</head>
+                  <p>As theſe <hi>Articles</hi> were drawn up by a Cardinal, ſo the Arch-Biſhop of <hi>Toledo,</hi> does excellently well to perſuade his King to beſeech God to let him die in a Faith, the adheſion to the Errors of which, had gotten his Eminence the fatteſt Biſhoprick in Chriſtendom; but had his Majeſty given as little Faith to his Perſwaſions when <hi>Dying,</hi> as he did when <hi>Living,</hi> ſometime before his laſt Sickneſs, it had been more advantagious to the Security of the Peace of <hi>Europe.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="article">
+               <head>Article II.</head>
+               <p>He demands the Interceſſion of the Holy Virgin, and prays the Kings, his Succeſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, to continue the Inſtances he had made at the Court of <hi>Rome,</hi> to obtain a Deciſion of the Pope in fa<g ref="char:EOLhyphen"/>vour of the immaculate Conception of the Virgin.</p>
+               <div type="answer">
+                  <pb n="2" facs="tcp:103418:3"/>
+                  <head>Anſwer</head>
+                  <p>Had his Majeſty been in his right Senſes when he made this Petition, the Bleſſed Virgins Interceſſion would never have been granted him; neither is it to be ſuppos'd whatever Service his blind Zeal might have made him endeavour to do her, in getting an <hi>Idolater,</hi> to grant <hi>Bulls</hi> in her Fa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our, tho' ſhe had the Power of <hi>Me<g ref="char:EOLhyphen"/>diation,</hi> on Attribute only to be aſcrib'd to God the Son, ſhe would make uſe of it, for a King, who beg'd it to countenance a <hi>Will,</hi> which was likely to make Diviſions among Chriſtian Princes; and was contradictory to the Commands of the Bleſſed Jeſus, which injoyn'd <hi>Unity,</hi> and <hi>the Loving one another.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="article">
+               <head>Article III.</head>
+               <p>His Majeſty ordains that his Body ſhall be Interred in the Monaſtery of St. <hi>Laurent the Royal,</hi> in the Tomb of his Anceſtors, but with the leaſt Pomp that the Royal Dignity will permit of.</p>
+               <div type="answer">
+                  <head>Anſwer</head>
+                  <p>His Majeſty, tho' he never <hi>Liv'd</hi> like a King, and was Govern'd by Prieſts, <hi>&amp;c.</hi> is to be commended for his Orders to be <hi>Buried</hi> like one, amongſt his Royal Anceſtors; and the Cardinal did not amiſs to perſuade him to command as little Expences as poſſible at his Fu<g ref="char:EOLhyphen"/>neral, for fear the Young Prince, his Succeſſor, ſhould not have enough in the Royal Treaſury to Reward ſo Zealous and Affectionate a Servant.</p>
+               </div>
+            </div>
+            <div n="4" type="article">
+               <head>Article IV.</head>
+               <p>The Foundations which the King has made, during his life in favour of the ſaid Monaſtery, ſhall be maintained.</p>
+               <div type="answer">
+                  <head>Anſwer</head>
+                  <p>The <hi>Prieſt</hi> gets the better of the <hi>Subject</hi> here; and the Monaſtry of St. <hi>Laurent</hi>'s encreaſe of Wealth muſt be taken care of, tho' the People who have a Veneration for the Superſtitious Follys that are practic'd there, are ready to ſtarve.</p>
+               </div>
+            </div>
+            <div n="5" type="article">
+               <pb n="3" facs="tcp:103418:3"/>
+               <head>Article V.</head>
+               <p>The Kings Succeſſors to his Majeſty are alſo to have a par<g ref="char:EOLhyphen"/>ticular care, to preſerve the ſame in the form and Splendor which King <hi>Philip</hi> the 2d. gave it in Founding it.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Queſtion is, Whether <hi>Phillip</hi> the V. be ſuch a Re<g ref="char:EOLhyphen"/>lick-monger, as King <hi>Phillip</hi> the II. tho' it muſt be own'd he ſprings from a <hi>Religious Family.</hi> However 'tis no more to be doubted, but he'll promiſe as ſtrict an obſer<g ref="char:EOLhyphen"/>ver of his Benefactors Commands in this point, as much as he'll hold faſt to the performance of his Injunctions of being a <hi>True Spaniard,</hi> when he has it in Power, to be a <hi>down-right French-man.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="article">
+               <head>Article VI.</head>
+               <p>A hundred thouſand Maſſes ſhall be ſaid for the Salvation of his Majeſty's Soul; and in caſe he need them not, they ſhall be then for thoſe of Predeceſſors.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Would to God his Eminence had been enjoyn'd the Pennance of ſaying all theſe Maſſes himſelf for making his <hi>Maſter</hi> take his leave of the World in ſuch ridiculous Terms. If a Prince who had been led by the Noſe all his Life-time, and had been guilty of few Sins, but that of a blind Bigotry, has occaſion for 100000 Maſſes, how many muſt our wicked Teſtament-maker have, before he can creep out of Purgatory after his Deceaſe. But this is a profitable Superſtition, that brings Griſt to the Ro<g ref="char:EOLhyphen"/>miſh Churches Mill, and tho' his Majeſty nor his Pre<g ref="char:EOLhyphen"/>deceſſors can receive any Profit from it, the Clergy that ſur<g ref="char:EOLhyphen"/>vive may; and that's an Argument good enough to make a Cardinal puſh forward ſo advantagious an <hi>Article.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="article">
+               <head>Article VII.</head>
+               <p>King <hi>Philip</hi> the <hi>4th</hi> having formerly Eſtabliſh'd a Fund of <hi>6000</hi> Ducats for the Redemption of Slaves, Marriage of poor Maids, and releaſe of Priſoners, his Majeſty ordains, that the Deſigns of the Foundation be punctually put in execution.</p>
+               <div type="answer">
+                  <pb n="4" facs="tcp:103418:4"/>
+                  <head>Anſwer.</head>
+                  <p>Very good! After he has made proviſion for thoſe who are too implicit Believers, he's for ſcattering ſome of his Maſters looſe <hi>Ducats</hi> if he can find 'em amongſt <hi>Infidels.</hi> He had better have perſuaded his Sovegaign Lord to have left a Sum to drive the <hi>Moors</hi> from <hi>Ceuta,</hi> and hinder 'em from taking any Slaves, than to furniſh 'em with Mony to empower 'em to take more. The Marriage of <hi>Poor Maids,</hi> I confeſs is an excellent thing; but <hi>Spain</hi> is a Hot Country, and they take Man ſo early there, that few <hi>Ducats</hi> will go a great way.</p>
+               </div>
+            </div>
+            <div n="8" type="article">
+               <head>Article VIII.</head>
+               <p>His Majeſty recommends to his Succeſſor, a perfect Obedi<g ref="char:EOLhyphen"/>ence to the Holy Apoſtolical See of <hi>Rome,</hi> the fear of God, and obſervation of his Commandments; and that he would procure above all things the exaltation of the Faith, honour the Gown, love his People, impartially Adminiſter Juſtice to all, be watchful over the Conduct of his Miniſters, and be perſwaded that in doing all theſe things he will draw God's Bleſſing down upon him.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>By <hi>Honouring</hi> the <hi>Gown,</hi> his Eminence put's the Young King in mind of the good Offices he has done, but if <hi>he have a watchful Eye over the Conduct of his Miniſters,</hi> he'll ſoon find that the Lord <hi>Porto Carero</hi> is better pleas'd with telling over <hi>Loues d' Or's,</hi> than counting his Beads.</p>
+               </div>
+            </div>
+            <div n="9" type="article">
+               <head>Article IX.</head>
+               <p>The King's Succeſſors to his Majeſty are to ſacrifice all for the defence and advancement of the Roman Catholick Reli<g ref="char:EOLhyphen"/>gion, and in caſe any among them ſhould be found infected with Hereſies, and condemned Doctrins, his Majeſty declares him uncapable of Reigning, and deprived of all Right to the Crown.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>That's as much as to ſay, Your Majeſty muſt do as yovr Predeceſſor <hi>(now in Glory)</hi> did, looſe your Towns,
+<pb n="5" facs="tcp:103418:4"/> while you are Kiſſing your Relicks, and in order to ad<g ref="char:EOLhyphen"/>vance the Roman Catholick Religion, break Friendſhip with thoſe Hereticks who were his Preſervers in the late War. The <hi>Dutch</hi> have ſome Reaſon to take notice of this <hi>Article,</hi> and if the Duke of <hi>Anjou</hi>'s Complement to a certain P— had any Truth in it, ſo have the <hi>Engliſh</hi> too. As for his Majeſties turning Heretick, theres no great fear of it, his Grand-father has Taught him his Leſſon; and he's as likely to be as great a Friend to the <hi>Inquiſition,</hi> as the moſt Chriſtian King is to the Converſion of thoſe he call's Hereticks.</p>
+               </div>
+            </div>
+            <div n="10" type="article">
+               <head>Article X.</head>
+               <p>The Kings and Succeſſors to the Crown of <hi>Spain</hi> ſhall pre<g ref="char:EOLhyphen"/>fer the Conſiderations of Religion before thoſe of Politicks, and by thoſe means draw upon them the Bleſſing of God.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>That is, the King ſhall be a muttering <hi>Ave Maria</hi>'s, while the Cardinal ſits at the Helm, and takes care of publick Affairs; and concerns himſelf in more profitable Matters; which ſhews there's nothing like a <hi>Bigotted</hi> Prince for a <hi>Covetious</hi> States-man, and a Soveraign poſ<g ref="char:EOLhyphen"/>ſeſs'd with <hi>Superſtition,</hi> for a Diſciple of <hi>Matchiavel</hi> to work on.</p>
+               </div>
+            </div>
+            <div n="11" type="article">
+               <head>Article XI.</head>
+               <p>The Adoration of the Holy Sacrament, which has been par<g ref="char:EOLhyphen"/>ticularly eſtabliſhed and founded in the Chapple of the Pallace, ſhall be obſerved, for the future, as it is at preſent.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>As for this <hi>Article,</hi> I have nothing to ſay to it, let 'em elevate the Hoſt, as his deceas'd Majeſty thinks fit. Tho' ſomething occurs obſervable enough from the fre<g ref="char:EOLhyphen"/>quency of his Orders againſt all manner of <hi>Alterations,</hi> he has ſome ſuſpicion of his Succeſſor, and can hardly be aſſur'd a Prince of the Houſe of <hi>Bourbon</hi> can bring himſelf to a <hi>Caſtilians</hi> Temper without great difficulty.</p>
+               </div>
+            </div>
+            <div n="12" type="article">
+               <pb n="6" facs="tcp:103418:5"/>
+               <head>Article XII.</head>
+               <p>The King declares that if God, by his infinite mercy gives him lawful Children, the Eldeſt of the Males ſhall Succeed him, and by defect of Males, the Daughters, according to the Laws of his Kingdoms; but it not having pleaſed God, at the time of this Teſtament, to grant him that ineſtimable favour, and the firſt Obligation which is incumbent on him, is to provide for the Welfare of his Subjects, and the preſer<g ref="char:EOLhyphen"/>vation of his Kingdoms in the Union conducive to the Pub<g ref="char:EOLhyphen"/>lick Good, they keeping the Fidelity they owe to their King, and Natural Lord, as they have done for the time paſt, and regulating themſelves moſt juſtly, and wholy conforming with the Supreame Authority of his Diſpoſal.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Commands which went before were only as ſo many leading-ſtrings, to what the <hi>Will</hi> is now pointing at. God has not bleſs'd his Catholick Majeſty with Iſ<g ref="char:EOLhyphen"/>ſue from his own Body, and <hi>the Welfare of his Subjects,</hi> and Preſervation of his Kingdoms make it but ſitting he ſhould declare a Succeſſor, who ſhould be inſtrumental in continuing the Bleſſings they had receiv'd from his <hi>Auſpi<g ref="char:EOLhyphen"/>cious</hi> Reign. And the ſequel will tell us what Proviſion he has made for it.</p>
+               </div>
+            </div>
+            <div n="13" type="article">
+               <head>Article XIII.</head>
+               <p>By which his Majeſty being convinced that the Renuncia<g ref="char:EOLhyphen"/>tion of the late King of <hi>France,</hi> having been made to pre<g ref="char:EOLhyphen"/>vent the Re-union of the two Crowns in one ſole Monarchy; and that when this fundamental Reaſon comes to ceaſe, the Right of Succeſſion belongs, purſuant to the Laws of the King<g ref="char:EOLhyphen"/>dom, to the next Relation and Heir, which now happens in the Perſon of the <hi>Dauphin</hi>'s Second Son. His Majeſty calls him in that Quality to the Succeſſion of all his Kingdoms and States, without any reſerve or exception; Authorizes him to take Poſſeſſion thereof, after His Majeſty's Death, by ta<g ref="char:EOLhyphen"/>king the Oaths to maintain the Laws, Ordinances and Cuſtoms of the Kingdoms and States of the Monarchy, and in caſe the
+<pb n="7" facs="tcp:103418:5"/> Duke of <hi>Anjou</hi> ſhould happen to Die, or Inherit the Crown of <hi>France,</hi> the Succeſſion of the Crown of <hi>Spain</hi> ſhall paſs to the Duke of <hi>Berry,</hi> his Brother, and if the ſame ſhould fall out, in the Perſon of the ſaid Duke of <hi>Berry,</hi> his Brother, his Majeſty calls to the Succeſſion, the <hi>Arch-Duke,</hi> Second Son to the Emperor, and not the King of the <hi>Romans,</hi> his Elder Brother, for the ſame Reaſons which regard the Duke <hi>d' Anjou,</hi> and in caſe the Arch Duke <hi>Charles</hi> ſhould by the ſame Accident of Death be wanting, his Majeſty appoints the Duke of <hi>Savoy</hi> and his Children, Willing and Commanding, That his Will be punctually executed without any Partition or Diſmembring of the Monarchy; and his Majeſty deſiring Ardently that the Peace, and Union between the Emperor and the Moſt Chriſtian King, be Conſerved; he Recommends and Exhorts, that for the better Confirmation of this Union, and the Tranquillity of <hi>Europe,</hi> the ſame the rendered in<g ref="char:EOLhyphen"/>diſſolble by the Marriage of the Duke <hi>d' Anjou,</hi> with one of the moſt Illuſtrious Arch Dutcheſſes, <hi>&amp;c.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Right! the Renunciation was certainly made to hinder the Two Crowns from being United in the Perſon of one Sovereign, but how well this Declaration agrees with it, may be eaſily perceiv'd. The Deſign of it, without doubt, was to keep a <hi>French</hi> Prince from Sitting on the Throne of <hi>Spain,</hi> and to continue the Succeſſion in the Houſe of <hi>Auſtria.</hi> Now That this is Fruſtrated to all intents and purpoſes, by calling the Duke of <hi>Anjou</hi> to the Poſſeſſion of a Prince of the <hi>Auſtrian</hi> Family, is very Apparent; and that an Union of the Two Kingdoms is now more to be feared than ever, may appear from the <hi>French</hi> King's own Words, who ſaid, <hi>France and Spain ſhould be one,</hi> at his acceptance of the Will. Which may be more eaſily made ſo by the Contiguity of their Fron<g ref="char:EOLhyphen"/>tiers to each other, when it had been much more un<g ref="char:EOLhyphen"/>likely, to have been effected by the <hi>Germans,</hi> becauſe of the diſtance of their Territories from each other, had the
+<pb n="8" facs="tcp:103418:6"/> Illuſtrious Arch Duke been choſen for His Majeſty's Succeſſor.</p>
+               </div>
+            </div>
+            <div n="14" type="article">
+               <head>Article XIV.</head>
+               <p>His Majeſty makes an Enumeration, and Deſtinction of the Countries in which the Duke <hi>de Anjou</hi> is to Succeed him to the Title of <hi>Caſtile,</hi> and thoſe that depend on the Crown of <hi>Arragon,</hi> Declaring that from the Moment it ſhall pleaſe God to remove him from this Life; the Duke ſhall be <hi>ipſo facto, King of all his Countries,</hi> notwithſtanding all ſort of Renunciation, and orders all his Subjects and Vaſſals, of what Condition ſoever, to Acknowledge him as ſuch, with<g ref="char:EOLhyphen"/>out any Delay.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Teſtator has taken upon him to diſanul the Vali<g ref="char:EOLhyphen"/>dity of the Renunciation; but how the Perſon that drew up the Teſtament could abſolve him before he had re<g ref="char:EOLhyphen"/>pented of ſuch an apparent injury to his own Iluſtrious Family, it is not in me to imagine. If the poor King had loſt his Senſes, what Injuſtice has the Cardinal done, if he parted with his Conſcience, and made his Majeſty Sign a Paper, which approaching Death would not per<g ref="char:EOLhyphen"/>mit him to Read. Which ſeems not impoſſible, if we conſider with our ſelves, with what earneſtneſs an <hi>Auſtri<g ref="char:EOLhyphen"/>an</hi> Prince is made to recommend another with, to the Inheritance of his Dominions, whoſe Family had been at War with him from his very Cradle, and laid his Country deſolate in the moſt Savage manner imaginable:</p>
+               </div>
+            </div>
+            <div n="15" type="article">
+               <head>Article XV.</head>
+               <p>And it being neceſſary to provide for the Government of the Countries of the Monarchy, in a manner Conformable to its Conſtitutions, untill ſuch time as his Majeſties Succeſſor might repair to <hi>Spain,</hi> and in Perſon take care of the Gover<g ref="char:EOLhyphen"/>ment: His Majeſty Ordains that the ſame ſhall be put into the Hands of a Juncto, which ſhall be Compoſed of the Pre<g ref="char:EOLhyphen"/>ſident or Governor of the Council of <hi>Caſtile;</hi> the Vice Chan<g ref="char:EOLhyphen"/>cellor, or Preſident of <hi>Arragon,</hi> the Arch Biſhop of <hi>Toledo,</hi>
+                  <pb n="9" facs="tcp:103418:6"/> the Inquiſitor General, of a Grandee, and a Counciller of State, whom his Majeſty will Nominate, either in this preſent Te<g ref="char:EOLhyphen"/>ſtament, or in a Codicil, or in a Paper Signed by him; this Jucto ſhall meet in the Queens preſence, in ſuch an Apartment and place, as ſhe ſhall be pleaſed to order, during the time ſhe ſhall, remain in <hi>Spain,</hi> and her ſaid Majeſty ſhall have a Caſt<g ref="char:EOLhyphen"/>ing Voice, that is to ſay, that when the Suffrages ſhall be divided, the ſide on which her's is, ſhall carry before the other, but for the reſt, the Plurallity of Voices ſhall carry it in all things.</p>
+               <div type="answer">
+                  <head>Anſwer:</head>
+                  <p>To palliate the ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter, and make the <hi>Germans</hi> an atone<g ref="char:EOLhyphen"/>ment, his Majeſties Royal Conſort the Queen, a Siſter of the preſent Empreſs, is made one of the Regents, But where's the Favour that ſhe has the Caſting Voice. when 'tis well known the <hi>French</hi> Nation has a great Ma<g ref="char:EOLhyphen"/>jority in the ſaid <hi>Juncto,</hi> that ſhe can never have occaſi<g ref="char:EOLhyphen"/>on to make uſe of it? Or the mighty Priviledge in making choice of what Apartment ſhe pleaſes for 'em to Meet in, when ſhe is certain to be over-rul'd by 'em, when they are met?</p>
+               </div>
+            </div>
+            <div n="16" type="article">
+               <head>Article XVI.</head>
+               <p>And in caſe, that when the King Dies, he who is to be his Succeſſor, ſhould be Minor, or under the Age of <hi>14</hi> Years, the ſame Governors here above named, ſhall have in his Name the Adminiſtration of the Government, and ſhall be his Tu<g ref="char:EOLhyphen"/>tors and Curators.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>But his Preſent Majeſty will be none of their Pupils, nor if he were under the Age of 14 Years, as 'tis Viſible he is not, would his Grand-Father think it not in his Power to chuſe him <hi>French</hi> Tutors, ſince he has already made choiſe of a <hi>French</hi> Man for his <hi>Confeſſor.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="17" type="article">
+               <head>Article XVII.</head>
+               <p>The Vice-Chancellor of <hi>Aragon,</hi> whom his Majeſty has named to be one of the <hi>Juncto,</hi> as Tutor to his Succeſſor,
+<pb n="10" facs="tcp:103418:7"/> ſhall Eſpecially and Particularly, if it be Conformable to the Priviledges and Cuſtoms of the Kingdom of <hi>Arragon,;</hi> but if the ſaid Cuſtoms and Priviledges, permit not him that is Preſident to exerciſe that Poſt, his Majeſty then appoints in his place the moſt Antient Councellor of the Robe, of the ſaid Kingdom, to make it his Function; and in defect of him, he appoints him that ſhall be next, and shall follow him in Place and Seniority.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Vice-Chancellor of <hi>Arragon</hi> may perhaps be his Titular Tutor; but <hi>L</hi>— XIV. will actually be his In<g ref="char:EOLhyphen"/>ſtructor; and the Firſt may endeavour to inculcate true <hi>Spaniſh</hi> deliberation, in his Royal Diſciple; but the Do<g ref="char:EOLhyphen"/>ctrines of the Laſt will be more prevalent for his Imitation.</p>
+               </div>
+            </div>
+            <div n="18" type="article">
+               <head>Article XVIII.</head>
+               <p>The ſaid Regent of <hi>Arragon,</hi> that ſhall be Tutor, ſhall Reſide at Court, ſhall keep his place in Council, ſhall aſſiſt at the <hi>Juncto;</hi> and propoſe thoſe things, that ſhall relate to, and concern the Kingdom of <hi>Aragon,</hi> to the end that the <hi>Juncto</hi> being inform'd thereof, they may reſolve by plurality of Voices, upon ſuch Meaſures as ſhall be moſt conducing to the Service of God and his Succeſſor.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>He may Reſide at Court, Aſſiſt in Council, take his Place in the <hi>Juncto,</hi> and propoſe what Matters he pleaſes; but a Prince who has ſuck'd in Arbitrary Noti<g ref="char:EOLhyphen"/>ons with his Mothers Milk, has heard of nothing but abſolute Power, and been harangu'd with no Schemes, but thoſe of Ambition, will not leſſen his Authority in taking other Peoples Meaſures, when he is fix'd in his Throne, and has it in his Power to follow the Dictates of his own Will.</p>
+               </div>
+            </div>
+            <div n="19" type="article">
+               <head>Article XIX.</head>
+               <p>His Majeſty gives all his Miniſters and Officers, the Pow<g ref="char:EOLhyphen"/>er, Authority and Faculty, that is neceſſary towards a due Exerciſe of their reſpective Offices, during the Minority of
+<pb n="11" facs="tcp:103418:7"/> his Succeſſor, provided they do firſt take the Oath of Fidelity to him.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>And what ſignifies the Power and Authority which is given 'em? They have no <hi>Minor</hi> to deal with, their King is above 14 Years Old, and a Succeſſor of that Age, as the <hi>Will</hi> has given us to underſtand in one of the Precedent <hi>Articles,</hi> is declar'd to be in a State of Majo<g ref="char:EOLhyphen"/>rity.</p>
+               </div>
+            </div>
+            <div n="20" type="article">
+               <head>Article XX.</head>
+               <p>The Tutors aboveſaid ſhall Adminiſter the Affairs all to<g ref="char:EOLhyphen"/>gether, and not one by one; and for that purpoſe, ſhall Aſ<g ref="char:EOLhyphen"/>ſemble every Day, in an Apartment of the Palace, which the Queen ſhall aſſign, the Secretary of the Univerſal Diſpatches being preſent to make the Relations, and aſſiſt in the ſame manner as he did did, during the Kings Life.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If they are to conſult of publick affairs altogether; and the Queen as Supreme Regent has Authority to ap<g ref="char:EOLhyphen"/>point, how comes it to paſs, that publick Buſineſs is concerted without her Majeſties Conſent, That Letters of Thanks are ſent without her Hand and Signet to 'em; and that Embaſſies are order'd without her previous Ap<g ref="char:EOLhyphen"/>probation? For the very Letters from <hi>Paris</hi> agree, That the Queen Swoonded, at the News of the Duke of <hi>Anjou</hi>'s being Declar'd King, and not one Inſtance has been gi<g ref="char:EOLhyphen"/>ven of her acting any ways ſince Her Royal Husband's Death, then by ſending Letters to ſome Princes to give her the News of it.</p>
+               </div>
+            </div>
+            <div n="21" type="article">
+               <head>Article XXI.</head>
+               <p>All the Matters of Conſultation, that are to be laid before the Councils to be Communicated firſt to the Secretaries Of<g ref="char:EOLhyphen"/>fice of the Univerſal Diſpatches, afterwards opened to the <hi>Juncto,</hi> and the Secretary of the Diſpatches is to appoint the Reſolution.</p>
+               <div type="answer">
+                  <pb n="12" facs="tcp:103418:8"/>
+                  <head>Anſwer.</head>
+                  <p>This is a Piece of Formality, not much Intelligible to Men of our Nation, who are as quick in diſpatch of Buſi<g ref="char:EOLhyphen"/>neſs, as the <hi>Spaniards</hi> are wanting in Expedition, among whom, if you were but to ask where a <hi>Grandee</hi> was, you muſt go thro' as many Hands before you'll be out of your Pain of Enquiry, as one of our Foot Guards does in run<g ref="char:EOLhyphen"/>ning the Gauntlet.</p>
+               </div>
+            </div>
+            <div n="22" type="article">
+               <head>Article XXII.</head>
+               <p>In the Diſpatches which the King is uſed to Sign, as well with his Royal Hand, as with his Signet, the Queen ſhall Sign in the ſame place the King did; and the Tutors ſhall Sign lower, to the Number of Four at leaſt; and in the Af<g ref="char:EOLhyphen"/>fairs of <hi>Aragon,</hi> the Regent of that Kingdom ſhall always Sign.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>It's to be ſuppos'd Her Majeſty will ſcarce tyre her ſelf in Signing Diſpatches, which are concerted againſt the Intereſt of the Imperial Family, or that ſhe will be prevail'd with, by the pretended Honour of Writing her Name in the King's Place, to make uſe of it for the Bene<g ref="char:EOLhyphen"/>fit of thoſe who are Enemies to the <hi>Auſtrian</hi> Intereſt.</p>
+               </div>
+            </div>
+            <div n="23" type="article">
+               <head>Article XXIII.</head>
+               <p>Every one of the Regents ſhall be permitted to propoſe, what he ſhall think moſt convenient for the benefits of the Kingdom, and the plurality of Voices ſhall decide it.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Very good! but they muſt do what they intend for the Benefit of the Kingdom in a very ſhort time, or it may poſſibly be out of their Power. Their young Prince is on his Journy to take the Staff out of their Hands; and he'll probably have People about him, that will Inſtruct him how to make his <hi>own Voice</hi> carry Matters beyond their <hi>Plurality.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="24" type="article">
+               <head>Article XXIV,</head>
+               <p>In caſe the voices ſhould be found equally divided in the
+<pb n="13" facs="tcp:103418:8"/> 
+                  <hi>Juncto,</hi> either by the Queen's abſence, or ſome other acci<g ref="char:EOLhyphen"/>dent, the Preſident of the Council, to whom the Matter then in Queſtion ſhall belong to, ſhall be called for, or if there be no Preſident, the Dean of the ſame Council, or at leaſt he that ſhall be moſt Antient after the Dean.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If the Queen's abſence will make the Voices equal, the Preſi<g ref="char:EOLhyphen"/>dent of the Council <hi>&amp;c.</hi> is likely to have the Caſting Voice, at every Sitting of the <hi>Juncto,</hi> before his Majeſties Arrival.</p>
+               </div>
+            </div>
+            <div n="25" type="article">
+               <head>Article XXV.</head>
+               <p>Appoints the Morning for the time of meetting, and the manner how they are to Aſſemble in Extraordinary Caſes.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The time is fix'd, becauſe their Lordſhips ſhould know how many Hours they are allow'd, to put on their <hi>Short</hi> Coats, and <hi>Long</hi> Swords in.</p>
+               </div>
+            </div>
+            <div n="26" type="article">
+               <head>Article XXVI.</head>
+               <p>His Majeſty exhorts the Members of the <hi>Juncto</hi> to enter<g ref="char:EOLhyphen"/>tertain between them a good Correſpondence, neceſſary for the good of Affairs, and prays the Queen to Animate them by her Example.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This is better than all the reſt, the Queen muſt ſet before 'em a Pattern of Good Correſpondence, when ſhe's the only Mem<g ref="char:EOLhyphen"/>ber of the <hi>Juncto,</hi> that gives 'em an Example, ſhe can hold no ſuch thing with Perſons, who are againſt the Common Security of Chriſtendom.</p>
+               </div>
+            </div>
+            <div n="27" type="article">
+               <head>Article XXVII.</head>
+               <p>The Succeſſors preſence, being very neceſſary for the Bene<g ref="char:EOLhyphen"/>fit of the Kingdom, his Majeſty Conjures him to repair thi<g ref="char:EOLhyphen"/>ther with all poſſible diligence.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>They may take his Majeſties Word for it, he'll anſwer his Pedeceſſor's deſires in this Point, how backward ſoever, he may prove in giving Ear to his other Pious Exhortations: For in ſhort, he's in as much haſt to be at <hi>Madrid,</hi> as the poor <hi>Spani<g ref="char:EOLhyphen"/>ards</hi> are to have him make his Publick Entry, for the ſake of the Pieces, which his Grand-father has given him to ſcatter among 'em; and has got forward on his Journey, as ſoon as he could
+<pb n="14" facs="tcp:103418:9"/> fear another Relation of the Deceas'd Kings, ſhould have reach'd <hi>Spain</hi> before him.</p>
+               </div>
+            </div>
+            <div n="28" type="article">
+               <head>Article XXVIII.</head>
+               <p>In caſe the Succeſſor be of Age, the <hi>Juncto</hi> of the Regency ſhall render him an account of their Adminiſtration, and the State of all Affairs immediately after his Arrival.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Then they may make up their Accounts, for he was Born in 1683 tho' it ſignifies very little, ſince theſe worthy Patriots have done little more than put their Heads together to Endite the Contents of what he already knows, or they may reſt ſatisfy'd his Majeſty would not undergo a Forty-days Fatigue, to pay 'em a Viſit in anſwer to 'em,</p>
+               </div>
+            </div>
+            <div n="29" type="article">
+               <head>Article XXIX.</head>
+               <p>And in caſe he be ſtill a Minor, his Majeſty<hi>'s</hi> Will and Commands that they ſhall not omit to give him an account of Affairs that ſhall be Treated of in the <hi>Juncto</hi> of the Regency proportionably to his Age, and the Capacity of his Sence, as well to inform him by that means for the Government, as to render to his Authority and Royal Dignity due Reſpect.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Had his Majeſty's Father left the ſame Orders behind him at his Deceaſe, as the Royal Teſtator has, in Relation to his Suc<g ref="char:EOLhyphen"/>ceſſor, it's all the World to nothing, his Catholick Majeſtys de<g ref="char:EOLhyphen"/>funct would have had ſuch an inſight into Publick Affairs, as to have conſulted his Subjects Good by another Teſtament.</p>
+               </div>
+            </div>
+            <div n="30" type="article">
+               <head>Article XXX.</head>
+               <p>In caſe the Preſident or Governor of <hi>Caſtile,</hi> the Vice-Chan<g ref="char:EOLhyphen"/>cellor, or Preſident of <hi>Aragon,</hi> the Arch-Biſhop of <hi>Toledo,</hi> and the Inquiſitor General, ſhould happen to die immediately after his Majeſties Deceaſe, or during the Succeſſor's Minori<g ref="char:EOLhyphen"/>ty, their Places in the <hi>Juncto</hi> ſhall be Officiated by thoſe which the ſame <hi>Juncto</hi> have choſen for ſucceeding their Offices; and for what belongs to the <hi>Grandee</hi> of <hi>Spain</hi> and the <hi>Councillor</hi> of <hi>State</hi> the <hi>Juncto</hi> may chuſe in their place another <hi>Grandee,</hi> or another <hi>Councillor,</hi> in caſe thoſe his Majeſty ſhall appoint ſhould die; and that his ſaid Majeſty had not provided for filling up their Places.</p>
+               <div type="answer">
+                  <pb n="15" facs="tcp:103418:9"/>
+                  <head>Anſwer.</head>
+                  <p>The <hi>Articles</hi> ſtill are contradictory in relation to the pre<g ref="char:EOLhyphen"/>ſent Succeſſion: For what ſignifice the <hi>Juncto,</hi> when at his Arri<g ref="char:EOLhyphen"/>val, his Age Entiles him to the management of Regal Affairs; and make what ſhall be done after it, without his Approbation Null and Void? However the Catholick King did well to make the Inquiſitor General a Member of it, in order to keep his Suc<g ref="char:EOLhyphen"/>ceſſor in fear of turning Heretick.</p>
+               </div>
+            </div>
+            <div n="31" type="article">
+               <head>Article XXXI.</head>
+               <p>In their Sittings, they ſhall obſerve the Precedency, which His Majeſty has before given 'em in their Nomination; but if one of the Members of the <hi>Juncto</hi> be a <hi>Cardinal,</hi> he ſhall have the firſt Place; and in reſpect to the <hi>Grandee</hi> and the <hi>Councellor</hi> of <hi>State,</hi> they ſhall take the firſt or the laſt place, as they ſhall come: In the manner of giving the Suffrages, the Form of the <hi>Juncto</hi> ſhall be obſerved, and not that of the <hi>Council</hi> of <hi>State.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>This ſhews the <hi>Spaniard</hi> all over, who is a mighty ſtickler in Matters of Precedency; but gives chiefly an inſight into the knowledge of the worthy Perſon that was Author of this laſt Will and Teſtament, <hi>if one of the Members be a Cardinal,</hi> &amp;c. (as Lord <hi>Porto Carero</hi> certainly is) is enough to Point him out to us, and tho' he had no great kindneſs for his Country, any body may perceive he has no ſmall value for himſelf.</p>
+               </div>
+            </div>
+            <div n="32" type="article">
+               <head>Article XXXII.</head>
+               <p>All the Tribunals of the Kingdom ſhall keep their Autho<g ref="char:EOLhyphen"/>rity and manner of Judging, and Adminiſtring of Juſtice af<g ref="char:EOLhyphen"/>ter the Kings Defaſe as formerly.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If the Courts of Judicature were to ceaſe at his Majeſties Death, it might have been ſaid Juſtice had departed this Life, with the Catholick King; but the Nation has ſo little of that Commodity to ſpare, that his <hi>Will</hi>-maker would not ſuffer his Royal Maſter to carry any out of the World with him.</p>
+               </div>
+            </div>
+            <div n="33" type="article">
+               <head>Article XXXIII.</head>
+               <p>His Majeſty recommends to all Tribunals, Officers, of the Kingdom, to render Juſtice to the People with Integrity, and to the Kings, his Succeſſor, to make no alteration in the ſaid
+<pb n="16" facs="tcp:103418:10"/> Tribunals and Offices, but rather obſerve punctually and reli<g ref="char:EOLhyphen"/>giouſly the Caſtoms and Priviledges of each of the Kingdoms, States, and Towns of the Monarchy; and above all things, to admit none in the places of the Government but ſuch as are natural born Subjects of the Country; without ever giving thereupon any Diſpenſation to any body.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I dare lay my Life, what ever the young King does in reſpect of his Majeſty's Recommendation in the firſt part of this Article, he can ne're be ſo perfect a <hi>Caſti<g ref="char:EOLhyphen"/>lian,</hi> as to be punctual in the obſervance of what he en<g ref="char:EOLhyphen"/>joins him in the laſt. The Word <hi>Natural Born,</hi> is hard to be comply'd with, and if this Government is to be ſupported by the Politicks of <hi>Verſailes,</hi> without doubt ſome of the Courtiers there, who are to be his Majeſty's Inſtructors, are deſign'd to have ſome Preferment or other for their pains.</p>
+               </div>
+            </div>
+            <div n="34" type="article">
+               <head>Article XXXIV.</head>
+               <p>His Majeſty ordains, that immediately after his Deceaſe, there ſhall be given to the Queen all what has been granted her, either by Dowry, or otherways, and as an addition the Sume of Four Hundred Thouſand Ducats a Year for her Main<g ref="char:EOLhyphen"/>tenance, recommending expreſly to his Succeſſor, to put this Point in Execution,</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <hi>Immediately after his Deceaſe,</hi> was excellently put in for the Queen, and without doubt the Cardinal had more than an ordinary fetch in wording it after that manner. Its preſum'd he himſelf had receiv'd his before his Majeſty's deceaſe of a certain Miniſter, and to ſecure the Queen for his Friend, in caſe the <hi>French</hi> King ſhould ſtand hard and faſt (as he promis'd heartily by the <hi>Partition</hi>) and his Noſe ſhould be out of Joint with the Arch-Duke, for drawing up a Will ſo directly oppoſite to his Intereſt, he is altogether for a prompt Payment of her Majeſty's Le<g ref="char:EOLhyphen"/>gacies and Dowry. But this might be the dying King's one Sentiments for all that I know, he having had ſeve<g ref="char:EOLhyphen"/>ral Inſtances, in his Reign, of the Dilatorineſs of the <hi>French</hi>
+                     <pb n="17" facs="tcp:103418:10"/> in performance of Articles, and being perhaps not ſo well ſatisfy'd with his Succeſſor as to believe, He would think it adviſeable to part with ſo much Money very ſoon, when he was likely to meet with ſome Diſturbances be<g ref="char:EOLhyphen"/>fore he got poſſeſſion of his Throne.</p>
+               </div>
+            </div>
+            <div n="35" type="article">
+               <head>Article XXXV.</head>
+               <p>His Majeſty bequeaths, and gives to the Queen all the Jewels and Goods that are in her poſſeſſion, and are not inſepa<g ref="char:EOLhyphen"/>rable from the Crown. He orders his Subjects and Vaſſals, to ſhew her a great deal of Reſpect and Love on all Occaſions, and affectionately recommends to the King, his Succeſſor, to ſee executed what is above mentioned; and if the ſaid Queen, of her own accord and Will ſhould think fit to paſs into <hi>Italy,</hi> to Govern any of the Kingdoms of that Country, he ſhall grant her forthwith the Government thereof, and give her for Councillors and Miniſters of State, Perſons of the greateſt Con<g ref="char:EOLhyphen"/>ſideration, Experience and Wiſdom: But if the ſaid Queen ſhould chuſe rather to reſide in any City of <hi>Spain,</hi> ſhe ſhall have Liberty of Choice, and the Government of that City, with that of the Territories and Juriſdiction belonging there<g ref="char:EOLhyphen"/>to, ſhall be given her.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>More Sugar Plumbs yet for the Queen! This looks as if the Contriver of the Will was affraid that <hi>Philip</hi> the 5th would plunder his Royal Miſtreſs, and ſtrip her of the Jewels her Husband had given her, and therefore con<g ref="char:EOLhyphen"/>firms the Right of Poſſeſſing her own Goods to her Sa<g ref="char:EOLhyphen"/>cred Majeſty. But what is chiefly worth Notice is, the Grant which is made her of being conſtituted Regent or Governeſs of any Kingdom or City in <hi>Italy,</hi> if her Majeſty thinks fit to remove from her Reſidence in <hi>Madrid,</hi> which its hardly thought the King of <hi>France</hi> will ſuffer his Gran<g ref="char:EOLhyphen"/>ſon to comply with; becauſe if her Majeſty ſhould de<g ref="char:EOLhyphen"/>mand the Regency of <hi>Naples</hi> or <hi>Sicily,</hi> ſhe has no ſuch unkindneſs for her Siſter, as to keep out the Emperor her Husband, from his Pretenſions to it as a Fief of the Empire. Her Majeſty may take this as a Sweetner, and ſhe may expect her Court in <hi>Naples,</hi> when the great Sums
+<pb n="18" facs="tcp:103418:11"/> that are left her are paid, which are not likely to be, un<g ref="char:EOLhyphen"/>leſs the moſt Chriſtian King makes a tender of his Purſe, and offers the paying her Majeſty for ſome private Con<g ref="char:EOLhyphen"/>ſideration, as he lately did to wipe off the Mortgages of the <hi>Dutch</hi> upon the Towns in <hi>Flanders.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="36" type="article">
+               <head>Article XXXVI.</head>
+               <p>If the King that ſucceeds his Majeſty be Minor, his Maje<g ref="char:EOLhyphen"/>ſty Wills and Ordains that he ſhall be ſerved by the ſame Officers of his Houſhold that are at preſent in place, without making any Alteration therein; and if he be Major, he recom<g ref="char:EOLhyphen"/>mends to him to have ſome regard to the ſervices of the ſaid Officers and Servants, and to continue them in their Employ during their Life.</p>
+            </div>
+            <div n="37" type="article">
+               <head>Article XXXVII.</head>
+               <p>The Officers and Servants of the Houſhold, as alſo thoſe of the Queen, the King's Spouſe, and of the late Illuſtrious Queen Mother, ſhall be continued in their Places, Honours, and Emoluments during their Life.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p n="36">36 <hi>and</hi> 37. The Cardinal's Head was certainly run<g ref="char:EOLhyphen"/>ning upon his <hi>Loue's de Or's,</hi> when he hammer'd out theſe two contradictory Articles. The firſt makes his Majeſty lay his poſitive Commands on his Succeſſer, if in his Mino<g ref="char:EOLhyphen"/>rity, and requeſts him by way of Letters of Recommen<g ref="char:EOLhyphen"/>dation, provided he is <hi>out of it,</hi> to make uſe of the Offi<g ref="char:EOLhyphen"/>cers and Servants his Majeſty left behind him after his deceaſe. But the laſt enjoins him to keep 'em during life, whether the Heir to his Crowns be <hi>Major</hi> or <hi>Minor.</hi> How the <hi>proviſional</hi> Command or Requeſt, can be reconcil'd to the <hi>poſitive</hi> Injunction, its not in my Power to determine, unleſs his Eminence meant himſelf to be continued in his Poſt during life by the <hi>laſt,</hi> and the Queen Regent, and thoſe who were not in the <hi>French</hi> Intereſt to be <hi>durante be<g ref="char:EOLhyphen"/>ne placito</hi> by the <hi>firſt.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="38" type="article">
+               <head>Article XXXVIII.</head>
+               <p>The Guards du Corps being inſtituted to ſerve the Perſon of the actual King, and not another, his Majeſty commands the ſaid Guards to quit the Guard-Houſe of the Pallace immedi<g ref="char:EOLhyphen"/>ately
+<pb n="19" facs="tcp:103418:11"/> after his Death, without disbanding nevertheleſs, but to continue in a Body, in order to ſerve the King, his Succeſſor, and the Government, as he ſhall be pleaſed to ordain.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>As for the Inſtitution of the Guard <hi>du Corps,</hi> I know very little of the matter, but I am ſatisfy'd that this is as trivial an Article, and as unbecoming the <hi>Spaniſh</hi> Gravity, as ever proceeded from Don's mouth.</p>
+               </div>
+            </div>
+            <div n="39" type="article">
+               <head>Article XXXIX</head>
+               <p>But the <hi>Spaniſh</hi> and <hi>German</hi> Guards ſhall continue their Service at the Pallace as hitherto, as well for the Honour of the Crown, as for the Service of the Queen, his Majeſty's moſt dear and well beloved Spouſe.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>A pritty Compliment to the <hi>German</hi> Nation, to have the ſame favour done 'em, as the <hi>Spaniards</hi> themſelves, after he had ſlighted 'em as to their juſt Pretenſions to his Dominions.</p>
+               </div>
+            </div>
+            <div n="40" type="article">
+               <head>Article XL.</head>
+               <p>The late King <hi>Phillip</hi> the 4th. having added, and annex<g ref="char:EOLhyphen"/>ed to the Crown the <hi>Golden-flower-de-Luce,,</hi> the <hi>Lignmum Crucis,</hi> and abundance of other Relicks which came from the Emperor <hi>Charles</hi> the 5th. and are to be found in the Reli<g ref="char:EOLhyphen"/>quary of the Chaple Royal, his Majeſty conforms with this Diſ<g ref="char:EOLhyphen"/>poſition, and confirms it.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>And if his Majeſty ſhould add to his Royal Predeceſſors's Gifts the multitude of Relicks he dy'd wrapt up with, what would the Crown be the better for 'em?</p>
+               </div>
+            </div>
+            <div n="41" type="article">
+               <head>Article XLI.</head>
+               <p>And whereas the ſame King <hi>Philip</hi> the fourth has alſo add<g ref="char:EOLhyphen"/>ed, and annexed to the Crown ſeveral Jewels, Pictures, mov<g ref="char:EOLhyphen"/>ables and Rarities, which are in the Royal Palace at <hi>Ma<g ref="char:EOLhyphen"/>drid,</hi> his Majeſty declares them a freſh, Goods of the Crown, and recommends the payment of the Creditors that furniſh'd him with 'em.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Jewels, Pictures, and other rich Moveables, are ſomething in<g ref="char:EOLhyphen"/>deed, in compariſon of the <hi>Lignum Crucis,</hi> which if it were alie<g ref="char:EOLhyphen"/>nated from the Crown, would have as little effect upon the Sub<g ref="char:EOLhyphen"/>ject, as it had upon the King.</p>
+               </div>
+            </div>
+            <div n="42" type="article">
+               <pb n="20" facs="tcp:103418:12"/>
+               <head>Article XLII.</head>
+               <p>His Majeſty likewiſe adds, and annexes to the Crown for ever, all the Houſes and Pallaces he poſſeſſes, as well at <hi>Ma<g ref="char:EOLhyphen"/>drid,</hi> as any where elſe, with all the Jewels, Pictures and Moveables that are there, ordering that for that end exact In<g ref="char:EOLhyphen"/>ventories he made thereof.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Methinks the <hi>Spaniſh</hi> Gravity ſuffers very much by ſuch need<g ref="char:EOLhyphen"/>leſs Repetitions, and when his Eminency's hand was in, he might have left all that belong'd to the King by his own Acquiſition, and what had been Annex'd to the Crown by his Anceſtors in one Article. But the <hi>Will</hi> muſt appear like ſomething done in Concert with the Council of State, and is Spun out into a Mul<g ref="char:EOLhyphen"/>titude of Articles on purpoſe to amuſe the Publick.</p>
+               </div>
+            </div>
+            <div n="43" type="article">
+               <head>Article XLIII.</head>
+               <p>The late King <hi>Philip</hi> the 4th. having left to his Majeſty, and the Kings, his Succeſſors, a holy Croſs, which is to be found in the Wardrobe, his Majeſty leaves it likewiſe to his Succeſſor, and the Kings that ſhall ſucceed him.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>I queſtion not, but as the Goods in the <hi>Wardrobe</hi> were be<g ref="char:EOLhyphen"/>queath'd to the Succeſſor, the Young King would have taken Poſſeſſion of the Holy Croſs, which was among 'em; I wonder he did not beſtow an Article upon every particular peice of Furniture, that we might have ſeen what Goods his Majeſty had, and know the Temptation of <hi>Lewis</hi> the 14th to break thro' the Bonds of the <hi>Partition.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="44" type="article">
+               <head>Article XLIV.</head>
+               <p>His Majeſty having always had a particular eſteem for rendring Juſtice to all his Subjects and Vaſſals, and wronging no Body, he perſiſts in the ſame Sentiment, and ordains that for that end all his Debts ſhall be entirely paid, and that Sa<g ref="char:EOLhyphen"/>tisfaction ſhall be given to all Perſons that ſhall have any thing to pretend, by vertue of the Reſolutions he has taken, oo the Diſpoſitions he has made.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>His Majeſty for all that I know, might have always had <hi>a particular eſteem for Juſtice,</hi> but he had not always a Power to exe<g ref="char:EOLhyphen"/>cute it, as appears by his Preſent Teſtament. The Payment of Debts is inſerted on Purpoſe that the Nation may be beholding to the Moſt Chriſtian King, for how his Succeſſor can Diſcharge the
+<pb n="21" facs="tcp:103418:12"/> Debts to the Elector of <hi>Bavaria,</hi> and the <hi>Dutch,</hi> without <hi>French Loue's d'Ors,</hi> it's not in the Power of the Wiſeſt <hi>Spaniard</hi> to Divine.</p>
+               </div>
+            </div>
+            <div n="45" type="article">
+               <head>Article XLV.</head>
+               <p>His Majeſty recommends to the King, his Succeſſor, to a<g ref="char:EOLhyphen"/>void all ſuperfluous Expences, to ſpare the People, and eaſe them of the Taxes and Impoſitions luid on them, as ſoon as neceſſity will permit.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>What went before was an Order for the Payment of his Debts. and what immediately follows it, is a Charge to his Succeſſor, to eaſe his People of the Taxes and Impoſitions. But how the former is to be obey'd, and the latter have a due Obſervance paid to it, his Eminence I believe cannot tell. I am rather apt to believe they muſt raiſe New Funds by freſh Taxes, or the <hi>Spaniards</hi> will be as far from the Payment of their Old Debts as ever.</p>
+               </div>
+            </div>
+            <div n="46" type="article">
+               <head>Article XLVI.</head>
+               <p>Is a recommandation to the ſucceeding Kings to love, che<g ref="char:EOLhyphen"/>riſh and henour their Eſtates and Kingdoms, and particularly the Kingdom of <hi>Caſtille,</hi> as alſo to honour and reward thoſe of their other Subjects and Vaſſals, that ſhall deſerve it.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Cardinal without doubt, is a <hi>Castillian,</hi> becauſe that Na<g ref="char:EOLhyphen"/>tion is recommended in particular to his Majeſty's Love, whe<g ref="char:EOLhyphen"/>ther they deſerve it or no, when other States are not to be Lov'd Chriſh'd, and Honour'd, but in caſe of Merit.</p>
+               </div>
+            </div>
+            <div n="47" type="article">
+               <head>Article XLVII.</head>
+               <p>And it being the true and proper Office of Royalty, to ren<g ref="char:EOLhyphen"/>der Juſtice equally to every Body, to be the Father of his Sub<g ref="char:EOLhyphen"/>jects and Vaſſals, the Support of Widdows, Orphans, and the Relief of the Poor and Miſerable, his Majeſty recommands in particular all theſe points to the King, his Succeſſor.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Office of a King, is certainly to be the <hi>Father of his Coun<g ref="char:EOLhyphen"/>tries,</hi> &amp;c. but 'tis to be fear'd his late Majeſty had not Power enough to execute it, and not unlikely but ſome Foreign Maxims will perſuade the Preſent King to Graſp at more Autho<g ref="char:EOLhyphen"/>rity than what conſiſts with the Office of Royalty.</p>
+               </div>
+            </div>
+            <div n="48" type="article">
+               <head>Article XLVIII.</head>
+               <p>His Majeſty moreover adviſes and charges him to make
+<pb n="22" facs="tcp:103418:13"/> much of his Vaſſals, which are more remote as in the <hi>Indies,</hi> &amp;c. and repoſe as much Confidence in them, as in the very <hi>Caſtillians,</hi> it being the means to gain more and more their Love and Fidelity.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here's another Contradiction, firſt the <hi>Caſtilians</hi> were chefly to ſhare his Majeſty's Affection, and now the Succeſſor is in<g ref="char:EOLhyphen"/>joyn'd to make as much of his Subjects, which are under his Do<g ref="char:EOLhyphen"/>minion at a greater diſtance. But <hi>Mexico</hi> and <hi>Peru</hi> have a Met<g ref="char:EOLhyphen"/>tle that grows in 'em, which can make one ſay and unſay all in a Breath.</p>
+               </div>
+            </div>
+            <div n="49" type="article">
+               <head>Article XLIX.</head>
+               <p>And whereas his Majeſty has been conſtrained to exact from his Subjects and Vaſſals, divers extraordinary Impoſitions, and it having not been poſſible to take them all off, his Majeſty recommends expreſly two things to his Succeſſor, the one to remit, as ſoon as poſſible, the burthen of the ſaid Taxes, the other never to ſpend as much as a ſingle Real of that Fund, ei<g ref="char:EOLhyphen"/>ther in Donatirns or Liberality, conſidering it is the blood of the people and that recourſe ought to be had thereto, but in the laſt extremity.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If Taxes are the Blood of a People there's nothing like a <hi>French</hi> Surgeon to take it from 'em, and whether the Emperor purſues his Pretenſions or no, it's thought the Succeſſor will not want being taught Evaſions to keep 'em on the ſame Bottom, but as for <hi>Donations</hi> or Acts of <hi>Liberality,</hi> which are not to be beſtow'd out of that Fund, we may ſuppoſe the Cardinal has already Fin<g ref="char:EOLhyphen"/>ger'd his reward, becauſe he ſhuts up his Majeſty's Exchequer againſt others.</p>
+               </div>
+            </div>
+            <div n="50" type="article">
+               <head>Article L.</head>
+               <p>His Majeſty Ordains and Enjoyns, that conformable to the Laws of the Monarchy, neither the King his Succeſſor, nor thoſe that ſhall come after him, ſhall ever alinate any part of the Kingdoms and Countries, or divide, or ſhare them up<g ref="char:EOLhyphen"/>on any account ſoever, not ſo much as to give Apenages to their own Children, but on the contrary, as well the Kingdoms that are now annexed to the Crown, as thoſe that may fall thereto for the future, ſhall be continued united for ever in an inſeparable manner: His Majeſty confirming for that pur<g ref="char:EOLhyphen"/>poſe,
+<pb n="23" facs="tcp:103418:13"/> the Law made in the States of <hi>Valladolid</hi> in the Year <hi>1442,</hi> by King <hi>John</hi> the 2d, and afterwards approved and confirmed by King <hi>Firdinand,</hi> Queen Iſabella, his Spouſe, the Emperor <hi>Charles</hi> the 5th. <hi>Philip</hi> the 2d, <hi>Philip</hi> the 3d. and <hi>Philip</hi> the 4th.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Dreadful Partition is ſtill in his Eminency's Head, tho he has taken the proper means to prevent it by the Nomination of a Prince of <hi>France,</hi> and here's an injunction laid on the Suc<g ref="char:EOLhyphen"/>ceſſor not to Alienate or divide it, as if he was ſenſible <hi>Phillip</hi> 5th would make a Compliment of ſome of his Dominions to his Grand-Father, for his great <hi>Condeſcention</hi> in not poſſeſſing himſelf of all.</p>
+               </div>
+            </div>
+            <div n="51" type="article">
+               <head>Article LI.</head>
+               <p>His Majeſty confirms certain Rights ſettled by the King, his Predeceſſors on the Grandees and Nobility of the Kingdoms, and Countries of <hi>Spain.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>That is, his Majeſty would have the Grandees aſſume the ſame Government over his Succeſſor, as he quietly ſuffer'd over himſelf. But <hi>French</hi> Princes are not to be led by the Noſe, which the Teſtament-maker may one Day find, notwithſtanding great Services.</p>
+               </div>
+            </div>
+            <div n="52" type="article">
+               <head>Article LII.</head>
+               <p>And whereas the great Occupations of Peace and War, in which his Majeſty found himſelf exercis'd, obliged his Ma<g ref="char:EOLhyphen"/>jeſty to uſe Tolleration and Diſſimulation in this reſpect, he declares that the ſaid Tolleration and Diſſimulation cannot have brought any Preſcription, Alteration, or Prejudice to the Rights of the Crown, and annuls, make void, and deſtroys all what might have been made hitherto, tollerated, or diſſem<g ref="char:EOLhyphen"/>bled againſt the ſaid Right, which he maintains in all their force and vigor.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>His Majeſty on my Conſcience, never troubled himſelf much with the great Occupations of Peace or War, and as for <hi>Diſſi<g ref="char:EOLhyphen"/>mulation</hi> that is for certain a part of the Character of his Emi<g ref="char:EOLhyphen"/>nencie <hi>Porto-Carero.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="53" type="article">
+               <head>Article LIII.</head>
+               <p>His Majeſty having never pretended that his Subjects ſhould
+<pb n="24" facs="tcp:103418:14"/> receive any damage from the Woods and Forreſts he poſſeſſes in divers parts of the Kingdom, his Majeſty ordains that Satis<g ref="char:EOLhyphen"/>faction be forthwith given, to all thoſe that ſhall have any thing to pretend upon that point.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>
+                     <hi>Satisfaction forthwith,</hi> implys an immediate Act of Juſtice, but the great Men who are chief Rangers of theſe Woods and Forreſts, will ſcarce be in haſt to redreſs thoſe Grievances which occaſion ſuch conſiderable Additions to their Power and Eſtates.</p>
+               </div>
+            </div>
+            <div n="54" type="article">
+               <head>Article LIV.</head>
+               <p>His Majeſty provides for the continuation of the Edifices, and Embelliſhments he had ordered to be made in divers Pala<g ref="char:EOLhyphen"/>ces and Royal Houſes, and orders that all Sums ſhall be exact<g ref="char:EOLhyphen"/>ly paid that ſhall be due upon that account.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Then the Cardinal, and his other Favourites, ſhould not have exhauſted his Majeſty's Treaſury, and Diſabled his Suc<g ref="char:EOLhyphen"/>ceſſor to go forward with 'em.</p>
+               </div>
+            </div>
+            <div n="55" type="article">
+               <head>Article LV.</head>
+               <p>His Majeſty will and recommends to the Executors of his Will, to pay all his particular Debts, as ſoon, and in the beſt manner, that can be for the Diſcharge of his Conſcience.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>When Kings leave Debts, nether Executors nor Succeſſor are uneaſy, till they are paid, and the Creditors are ſeldom the better for what Injunctions ſoever are laid upon 'em to Diſ<g ref="char:EOLhyphen"/>charge 'em.</p>
+               </div>
+            </div>
+            <div n="56" type="article">
+               <head>Article LVI.</head>
+               <p>There being divers Clauſes of the ſame nature found repeat<g ref="char:EOLhyphen"/>ed in the Wills of his Majeſty's Predeceſſors, which could not have been entirely executed hitherto, and it being neverthe<g ref="char:EOLhyphen"/>leſs juſt they ſhould, his Majeſty confirms them all, recom<g ref="char:EOLhyphen"/>mending to his Succeſſor to execute them.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Here his Majeſty is made to own, he has not paid the King's his Predeceſſors Debts, which is enough to inſinuate that if his Succeſſor or Executors dont clear his, they have an Example to vindicate himſelf by.</p>
+               </div>
+            </div>
+            <div n="57" type="article">
+               <pb n="25" facs="tcp:103418:14"/>
+               <head>Article LVII.</head>
+               <p>His Majeſty bequeaths and leaves to the King, his Succeſ<g ref="char:EOLhyphen"/>ſor, all the Goods that ſhall be found to belong to him, having firſt diſcharged all the Debts and Obligations above named.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The King cannot leave his Goods twice to his Succeſſor, that's certain; yet the Cardinal has made him do it again, and again, and ſince they were not to be alienated from the Crown, how comes it about, that this <hi>Article</hi> intimates his Suc<g ref="char:EOLhyphen"/>ceſſor muſt pay his Debts firſt, or they ſhould be Sold towards the diſcharge of 'em?</p>
+               </div>
+            </div>
+            <div n="58" type="article">
+               <head>Article LVIII.</head>
+               <p>His Majeſty Names, for Executors of the preſent Teſta<g ref="char:EOLhyphen"/>ment; firſt the Queen, his dear and well beloved Spouſe, and afterwards thoſe, who at the time of his deceaſe ſhall be found to be in poſſeſſion of the places of <hi>Sommelier du Corps,</hi> and if there be none; the eldeſt Gentleman of the Chamber until there be one, the Mayor Dome Major and if there be none, the el<g ref="char:EOLhyphen"/>deſt Major Dome until there be one. The Cavallerizo Mayor, or him that ſhall exerciſe that Office, the Almoner Mayor, the Confeſſor, and him that ſhall ſucceed in that Employ. The Preſident or Governor of the Council of <hi>Caſtille,</hi> and if there be none, the Eldeſt Councillor, till there be one. The Vice Chancellor of <hi>Arragon;</hi> and if there be none, the eldeſt Councillor till there be one. The Inquiſitor General, and if there be none, the el<g ref="char:EOLhyphen"/>deſt of the Council of the Inquiſition, until there be one, The Preſident of the Council of the <hi>Indies,</hi> and if there be none, the eldeſt Council<g ref="char:EOLhyphen"/>lor til there be one. And the Prior of the Covent of Saint <hi>Laurent</hi> the <hi>Royal.</hi>
+               </p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>Had his Majeſty written his Will himſelf, he would ſcarce have made his <hi>Dear</hi> Conſort one of his Executors; ſince it could not be otherwiſe than an apparent Violence to a Princeſs's Temper to be made an Executrix of a Will; or oblig'd her Majeſty to prefer a Forreign Prince before her own Blood.</p>
+               </div>
+            </div>
+            <div n="59" type="article">
+               <floatingText xml:lang="eng" type="article">
+                  <body>
+                     <head>Article LIX.</head>
+                     <p>His Majeſty wills and ordains that his preſent Teſtament ſhall be re<g ref="char:EOLhyphen"/>puted good and valid, and ſhall have the force of a Law, and as ſuch ſhall be executed in all points.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Madrid</hi>
+                           <date>
+                              <hi>October</hi> 2d. <hi>1700.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Signed, <hi>I, the King.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <div type="answer">
+                  <pb n="26" facs="tcp:103418:15"/>
+                  <head>Anſwer,</head>
+                  <p>The Cardinal may make the King's Will, and Ordain what he pleaſes; but can never give this Teſtament the force of a Law, without the conſent of the States of the ſeveral King<g ref="char:EOLhyphen"/>doms, however he has concluded it with <hi>I the King,</hi> when moſt People conclude it ſhould have been, <hi>I THE CARDINAL.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="codicil">
+            <head>The <hi>CODICIL.</hi>
+            </head>
+            <div n="1" type="article">
+               <head>Article I.</head>
+               <p>HIS Majeſty confirms in favour of the Queen the Contents of the 35<hi rend="sup">th</hi>. Article of the Teſtament; and for her greater ſatisfaction, orders that if ſhe finds it agreeable, to prefer the Government of the Law Countries before thoſe of the Kingdoms of <hi>Italy,</hi> ſhe may go over thither, and recom<g ref="char:EOLhyphen"/>mends to his Succeſſor, to diſpoſe thereof immediately in her Favour.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>The Queen has a rare Opportunity to be even with her Kinſman the Elector of <hi>Bavaria,</hi> for his great Zeal in oppoſing the intereſt of his own Family, by her acceptance of the Government of the <hi>Ne<g ref="char:EOLhyphen"/>therlands,</hi> and has in her Power, if the King Elect pleaſes, to ſend him Back to <hi>Munich,</hi> to ſit upon the Stool of Repentance.</p>
+               </div>
+            </div>
+            <div n="2" type="article">
+               <head>Article II.</head>
+               <p>The Building which has been begun by the King's Order in the Chaple Royal at <hi>Madrid,</hi> for the greater Worſhip of the Holy Sacrament, ſhall be continu'd on the ſame Plan and deſign, until it is perfected, all at the Ex<g ref="char:EOLhyphen"/>pence of his Succeſſor.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>So perhaps it will, if his preſent Majeſty finds a ſufficient Summ be<g ref="char:EOLhyphen"/>queath'd him to maintain it; but he'll have enough to do to reward his Electors, <hi>&amp;c.</hi> ſo that I beleive the Building will not be perfected, till ſome time after his arrival.</p>
+               </div>
+            </div>
+            <div n="3" type="article">
+               <head>Article III.</head>
+               <p>His Majeſty bequeaths to the Royal Convents of bare-footed <hi>Franciſcans</hi> of the Incarnation, of the <hi>Auguſtine Recollects</hi> of St. <hi>Thereſia,</hi> St. <hi>Ann,</hi> and the bare-footed <hi>Carmelites,</hi> a Jewel to each at the Queen's choice, to whom he recommends the Execution of this Article.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>For certain her Majeſty will pick out the beſt ſhe can, that it may not fall into the hands of the Succeſſor. Nuns are great admirers of <hi>Pretious Stones,</hi> and will leave their Needle Work to handle things of that nature.</p>
+               </div>
+            </div>
+            <div n="4" type="article">
+               <head>Article IV.</head>
+               <p>
+                  <hi>Item,</hi> his Majeſty Ordains that the Convent of the bare-footed Religious of the Title of St. <hi>Joſeph d'Avila,</hi> ſhall be incorporated into the Royal Patronage.</p>
+               <div type="answer">
+                  <pb n="27" facs="tcp:103418:15"/>
+                  <head>Anſwer.</head>
+                  <p>That's an Act of Charity indeed, they'l ſcarce go bare-footed again, and now they are taken into the Protection of the Royal Patronage, they'l certainly have good <hi>Shoes</hi> to their Feet.</p>
+               </div>
+            </div>
+            <div n="5" type="article">
+               <head>Article V.</head>
+               <p>His Majeſty ordains and wills, that paying all his Debts, all the Queen's his Spouſes, ſhall alſo be paid, that ſhall be found to have been contracted, till the day of the King's deceaſe.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>'Twas a ſign that St. <hi>Tereſia</hi> was an excellent Protectreſs indeed, when ſhe ſuffer'd him all his Life, to be worſted by every petty Di<g ref="char:EOLhyphen"/>ſtemper; and if <hi>Philip</hi> the 5th ſtands the <hi>Spaniard</hi>'s Friend no faſter than the Glorious <hi>Tereſia,</hi> the Emperor will certainly Seize upon <hi>Mil<g ref="char:EOLhyphen"/>lan,</hi> and the <hi>Arch-Duke</hi> be Crown'd at <hi>Madrid.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="6" type="article">
+               <head>Article VI.</head>
+               <p>His Majeſty having deſired all his life time to put his Kingdom un<g ref="char:EOLhyphen"/>der the Protection of the glorious St. <hi>Thereſia</hi> of <hi>Jeſus,</hi> for whom he had a particular Devotion, he exhorts his Succeſſor to accompliſh that good deſire.</p>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>If it has no more force, than the Teſtament ſhould lawfully have, he has juſt done as much good to his Kingdoms, by ſigning <hi>I the King,</hi> as he did to himſelf by relying on the Protection of St. <hi>Tereſia.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="article">
+               <floatingText xml:lang="eng" type="article">
+                  <body>
+                     <head>Article VII.</head>
+                     <p>'Tis his Majeſty will, that the preſent Codicil ſhall have as much force and value, as if it were inſerted word by word in the Teſtament it ſelf.</p>
+                     <closer>
+                        <dateline>
+                           <hi>Madrid,</hi>
+                           <date>October <hi>5. 1700.</hi>
+                           </date>
+                        </dateline>
+                        <signed>Signed, <hi>I, the King.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <div type="answer">
+                  <head>Anſwer.</head>
+                  <p>But ſuppoſe the Young Prince, who now writes <hi>I the King,</hi> ſhould not admit of 'em as ſuch Councillers, what ſignifies his Majeſty's Compliment of tacking 'em to his Will?</p>
+                  <p>The Subſtance of the Paper mentioned in the 15th Article of the Teſtament.</p>
+                  <floatingText xml:lang="eng" type="article">
+                     <body>
+                        <p>The King appoint<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> as Members of the Juncto of the Regents, the Count de Frigiliania, <hi>alias</hi> Aguilar, for the Council of State, and and the Count <hi>de Bonavente Sommelier du Corps</hi> on the behalf of the Grandees of <hi>Spain.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Madrid,</hi>
+                              <date>October <hi>2. 1700.</hi>
+                              </date>
+                           </dateline>
+                           <signed>Signed, <hi>I. the King.</hi>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
